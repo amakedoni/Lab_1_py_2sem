@@ -1,0 +1,25 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# --- Виртуальное окружение ---
+venv/
+env/
+.venv/
+
+# --- IDE ---
+.idea/
+.vscode/
+*.swp
+
+# --- Тесты и отчеты ---
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# --- Секреты и логи ---
+.env
+*.log
